@@ -640,7 +640,7 @@ When you run _index.html_ file in the 01-Day folder you should get this:
 
 # 💻 Day 1: Exercises
 
-1. Write a single line comment which says, _comments can make code readable_
+1. Write a single line comment which says, _comments can make code readable_asdadadasdasdasd
 2. Write another single comment which says, _Welcome to 30DaysOfJavaScript_
 3. Write a multiline comment which says, _comments can make code readable, easy to reuse_
    _and informative_
